@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text={%20dev%20:%20SeungChan%20}&fontSize=90&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text={%20dev%20:%20SeungChan%20}&fontSize=90&fontColor=#ffffff)
 
 ## 🧑‍💻Hello! This is SeungChan Kim.
 
